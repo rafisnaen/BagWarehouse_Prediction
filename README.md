@@ -3,3 +3,4 @@ Summary :
 - Regression : Using exponential Regression
 - Prediction : Using Taylor Series
 - Root - finding : Using Newton - Raphson
+The code for methods is pure with no library ( Because of University AoL rule ). Only obligatory and sentimental library used.
