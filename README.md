@@ -6,6 +6,8 @@ Summary :
 - Prediction : Using Taylor Series
 - Root - finding : Using Newton - Raphson
 <br/>
+
+
 ---
 
 The code for methods is pure without helper calculation library ( Because of University AoL rule ). Only obligatory and sentimental library used.<br/>
