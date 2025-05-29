@@ -10,4 +10,4 @@ Summary :
 ---
 
 The code for methods is pure without helper calculation library ( Because of University AoL rule ). Only obligatory and sentimental library used.<br/>
-I got the 100/100 score for the report & code. 
+I got 100/100 score for the report & code. 
